@@ -3,6 +3,8 @@ use push in vaadin spring
 
 This is a maven project with vaadin and spring.
 
-By using server push on the UI class, current time will be shown as label caption second by second.
+Server push has been used on the UI class.
+
+The slider will moves itself and the value of slider will be shown in real time.
 
 http://localhost:8080
